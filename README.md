@@ -92,11 +92,8 @@ You can Use the software by downloading from Website...
 
 * **Website:** https://mistey.provatsoft.com
 * Tutorial Video.
-  * Doctor Review: <a href="https://drive.google.com/file/d/1G6_WXEKoECqOBQ3VoXT3Bcq3Fk5C7qT4/view?usp=drive_link" target="_blank">
-  <img src="https://img.shields.io/badge/Watch-Video-blue?style=for-the-badge&logo=google-drive" /></a>
-   * How to Use: 
-     <a href="https://drive.google.com/file/d/1htYI_kNaGmSxFsDqS3xobdDK6M2drYET/view?usp=drive_link" target="_blank">
-   <img src="https://img.shields.io/badge/Watch-Video-blue?style=for-the-badge&logo=google-drive" /> </a>
+  * Doctor Review: <a href="https://drive.google.com/file/d/1G6_WXEKoECqOBQ3VoXT3Bcq3Fk5C7qT4/view?usp=drive_link" target="_blank"> <img src="https://img.shields.io/badge/Watch-Video-blue?style=for-the-badge&logo=google-drive" /></a>
+   * How to Use: <a href="https://drive.google.com/file/d/1htYI_kNaGmSxFsDqS3xobdDK6M2drYET/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Watch-Video-blue?style=for-the-badge&logo=google-drive" /> </a>
 
   
 * **Team:** Agentic Lab
