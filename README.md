@@ -85,13 +85,16 @@ Exact components available may vary by build and configuration.
 
 ## 
 
-## Project Links
+## How to Install?
+You can Use the software by downloading from Website...
 
-* **Website / prototype:** https://mistey.provatsoft.com
+## Project Links (recomended)
+
+* **Website:** https://mistey.provatsoft.com
 * Tutorial Video. 
-
-  * Doctor Review: https://drive.google.com/file/d/1G6\_WXEKoECqOBQ3VoXT3Bcq3Fk5C7qT4/view?usp=drive\_link
-  * How to Use: https://drive.google.com/file/d/1htYI\_kNaGmSxFsDqS3xobdDK6M2drYET/view?usp=drive\_link
+  * Doctor Review: https://drive.google.com/file/d/1G6_WXEKoECqOBQ3VoXT3Bcq3Fk5C7qT4/view?usp=drive_link
+  * How to Use: https://drive.google.com/file/d/1htYI_kNaGmSxFsDqS3xobdDK6M2drYET/view?usp=drive_link
+  
 * **Team:** Agentic Lab
 
 
